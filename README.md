@@ -6,7 +6,7 @@
 # Anti-Cheat Exam App  🌟
 
 
-An App that aims to stop cheating in online exams with the power of AI and ML, co-created with [Samyak Sukhdeve](https://github.com/SamyakSukhdeve)
+An App that aims to stop cheating in online exams with the power of AI and ML
 
 We also have a web version of the app with more features and better features, check that project [here](https://github.com/prathamesh-mutkure/anti-cheat-app-web)
 
